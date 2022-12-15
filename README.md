@@ -8,5 +8,7 @@ Sumo
 ## Running Guide
 
 Run one of the merging files with the following flags:
+
 --testing: For watching the trained agent.
+
 --nogui: For not displaying sumo gui. 
