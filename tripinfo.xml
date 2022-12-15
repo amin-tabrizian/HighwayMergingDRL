@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2022-12-14 16:10:42 by Eclipse SUMO sumo Version v1_15_0+0471-c3363483131
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="merging.net.xml"/>
+        <route-files value="merging.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="tripinfo.xml"/>
+    </output>
+
+    <traci_server>
+        <remote-port value="51515"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="v_4" depart="10.00" departLane="E0_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="30.00" arrivalLane="E0.244_0" arrivalPos="252.97" arrivalSpeed="12.51" duration="20.00" routeLength="494.90" waitingTime="0.00" waitingCount="0" stopTime="0.00" timeLoss="10.29" rerouteNo="0" devices="tripinfo_v_4" vType="type1" speedFactor="1.03" vaporized="teleport"/>
+</tripinfos>

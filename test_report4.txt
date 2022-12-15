@@ -1,0 +1,901 @@
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #31.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  1 score -116.00 average score -116.00 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  2 score -100.00 average score -108.00 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  3 score -115.00 average score -110.33 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  4 score -115.00 average score -111.50 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  5 score -145.00 average score -118.20 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  6 score 0.00 average score -98.50 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #31.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  7 score -32.00 average score -89.00 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  8 score -100.00 average score -90.38 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  9 score 0.00 average score -80.33 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  10 score -15.00 average score -73.80 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  11 score 0.00 average score -67.09 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  12 score -91.00 average score -69.08 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (3ms ~= 333.33*RT, ~1666.67UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  13 score -100.00 average score -71.46 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  14 score -30.00 average score -68.50 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  15 score -100.00 average score -70.60 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  16 score 0.00 average score -66.19 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  17 score -116.00 average score -69.12 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  18 score 0.00 average score -65.28 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  19 score -115.00 average score -67.89 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (0ms ?*RT. ?UPS, TraCI: 4ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  20 score -45.00 average score -66.75 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  21 score -130.00 average score -69.76 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  22 score 0.00 average score -66.59 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  23 score -100.00 average score -68.04 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  24 score 0.00 average score -65.21 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  25 score -115.00 average score -67.20 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 2ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  26 score -115.00 average score -69.04 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  27 score -115.00 average score -70.74 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  28 score -102.00 average score -71.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  29 score -130.00 average score -73.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  30 score 0.00 average score -71.40 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 4ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  31 score -48.00 average score -70.65 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  32 score -115.00 average score -72.03 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  33 score -100.00 average score -72.88 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  34 score -115.00 average score -74.12 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  35 score -130.00 average score -75.71 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  36 score -115.00 average score -76.81 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  37 score -115.00 average score -77.84 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  38 score -145.00 average score -79.61 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  39 score -115.00 average score -80.51 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  40 score -115.00 average score -81.38 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  41 score -130.00 average score -82.56 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  42 score 0.00 average score -80.60 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  43 score -115.00 average score -81.40 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (3ms ~= 333.33*RT, ~1666.67UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  44 score -115.00 average score -82.16 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #28.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  45 score -100.00 average score -82.56 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 2ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  46 score -130.00 average score -83.59 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  47 score -100.00 average score -83.94 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  48 score 0.00 average score -82.19 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  49 score -100.00 average score -82.55 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  50 score -115.00 average score -83.20 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  51 score 0.00 average score -81.57 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (3ms ~= 333.33*RT, ~1666.67UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  52 score -100.00 average score -81.92 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  53 score -115.00 average score -82.55 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  54 score 0.00 average score -81.02 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  55 score -115.00 average score -81.64 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #33.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  56 score 0.00 average score -80.18 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #34.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  57 score -100.00 average score -80.53 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  58 score -100.00 average score -80.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  59 score -15.00 average score -79.75 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  60 score -60.00 average score -79.42 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  61 score -116.00 average score -80.02 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #28.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  62 score -115.00 average score -80.58 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #22.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 4ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  63 score -116.00 average score -81.14 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  64 score -116.00 average score -81.69 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  65 score -117.00 average score -82.23 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  66 score -130.00 average score -82.95 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  67 score -146.00 average score -83.90 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (2ms ~= 500.00*RT, ~2500.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  68 score 0.00 average score -82.66 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (2ms ~= 500.00*RT, ~2500.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  69 score -115.00 average score -83.13 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  70 score -100.00 average score -83.37 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  71 score -115.00 average score -83.82 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #32.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  72 score -30.00 average score -83.07 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (3ms ~= 333.33*RT, ~1666.67UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  73 score -100.00 average score -83.30 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #28.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  74 score -115.00 average score -83.73 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  75 score -145.00 average score -84.55 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  76 score -117.00 average score -84.97 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #33.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  77 score -100.00 average score -85.17 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  78 score -100.00 average score -85.36 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #32.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  79 score 0.00 average score -84.28 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  80 score -100.00 average score -84.47 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  81 score -100.00 average score -84.67 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  82 score -100.00 average score -84.85 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  83 score -115.00 average score -85.22 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #33.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  84 score -115.00 average score -85.57 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  85 score -100.00 average score -85.74 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  86 score -115.00 average score -86.08 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #42.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  87 score 0.00 average score -85.09 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  88 score 0.00 average score -84.12 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  89 score -115.00 average score -84.47 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  90 score 0.00 average score -83.53 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  91 score -115.00 average score -83.88 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  92 score 0.00 average score -82.97 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (3ms ~= 333.33*RT, ~666.67UPS, TraCI: 5ms, vehicles TOT 2 ACT 2 BUF 0)         Step #35.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  93 score -115.00 average score -83.31 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  94 score -100.00 average score -83.49 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  95 score -118.00 average score -83.85 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  96 score -100.00 average score -84.02 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #21.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  97 score -101.00 average score -84.20 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  98 score -100.00 average score -84.36 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  99 score -75.00 average score -84.26 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #32.00 (0ms ?*RT. ?UPS, TraCI: 2ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  100 score -118.00 average score -84.60 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (3ms ~= 333.33*RT, ~1666.67UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  101 score -160.00 average score -85.04 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  102 score -115.00 average score -85.19 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  103 score -101.00 average score -85.05 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #27.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  104 score -100.00 average score -84.90 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  105 score -115.00 average score -84.60 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  106 score -145.00 average score -86.05 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  107 score 0.00 average score -85.73 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  108 score -115.00 average score -85.88 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  109 score -145.00 average score -87.33 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  110 score -100.00 average score -88.18 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 2ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  111 score -116.00 average score -89.34 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  112 score -130.00 average score -89.73 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 4ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  113 score -100.00 average score -89.73 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  114 score -102.00 average score -90.45 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 2ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  115 score -116.00 average score -90.61 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #42.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  116 score -100.00 average score -91.61 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #32.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  117 score 0.00 average score -90.45 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  118 score -145.00 average score -91.90 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  119 score 0.00 average score -90.75 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  120 score -115.00 average score -91.45 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  121 score 0.00 average score -90.15 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  122 score 0.00 average score -90.15 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  123 score -115.00 average score -90.30 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  124 score 0.00 average score -90.30 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (1ms ~= 1000.00*RT, ~4000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 4 BUF 0)      
+episode  125 score -101.00 average score -90.16 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #33.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  126 score -130.00 average score -90.31 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  127 score -100.00 average score -90.16 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  128 score -115.00 average score -90.29 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 3ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  129 score 0.00 average score -88.99 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  130 score -1.00 average score -89.00 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  131 score 0.00 average score -88.52 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  132 score -160.00 average score -88.97 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  133 score -100.00 average score -88.97 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  134 score 0.00 average score -87.82 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  135 score -116.00 average score -87.68 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 793ms, vehicles TOT 2 ACT 2 BUF 0)                     Step #35.00 (5ms ~= 200.00*RT, ~800.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 4 BUF 0)        
+episode  136 score -115.00 average score -87.68 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  137 score -115.00 average score -87.68 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  138 score -145.00 average score -87.68 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #32.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  139 score -115.00 average score -87.68 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  140 score -100.00 average score -87.53 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #31.00 (2ms ~= 500.00*RT, ~2500.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  141 score -160.00 average score -87.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 5ms, vehicles TOT 2 ACT 2 BUF 0)       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  142 score -100.00 average score -88.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #32.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  143 score -115.00 average score -88.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  144 score -115.00 average score -88.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (2ms ~= 500.00*RT, ~2500.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  145 score 0.00 average score -87.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  146 score -100.00 average score -87.53 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  147 score -115.00 average score -87.68 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #37.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  148 score -160.00 average score -89.28 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 2ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  149 score -15.00 average score -88.43 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  150 score -115.00 average score -88.43 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  151 score -115.00 average score -89.58 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  152 score -100.00 average score -89.58 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  153 score 0.00 average score -88.43 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  154 score -130.00 average score -89.73 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  155 score -145.00 average score -90.03 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 2ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  156 score -115.00 average score -91.18 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #32.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  157 score -168.00 average score -91.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  158 score -100.00 average score -91.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  159 score 0.00 average score -91.71 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  160 score -45.00 average score -91.56 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  161 score -116.00 average score -91.56 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #32.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  162 score -115.00 average score -91.56 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  163 score -101.00 average score -91.41 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 4ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  164 score -115.00 average score -91.40 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #41.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  165 score -118.00 average score -91.41 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  166 score 0.00 average score -90.11 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  167 score 0.00 average score -88.65 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  168 score -145.00 average score -90.10 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  169 score 0.00 average score -88.95 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #32.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  170 score -145.00 average score -89.40 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #22.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  171 score -100.00 average score -89.25 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  172 score -115.00 average score -90.10 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  173 score -100.00 average score -90.10 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  174 score -115.00 average score -90.10 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  175 score -100.00 average score -89.65 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  176 score 0.00 average score -88.48 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  177 score 0.00 average score -87.48 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #37.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  178 score 0.00 average score -86.48 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  179 score 0.00 average score -86.48 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #29.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  180 score -130.00 average score -86.78 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  181 score -100.00 average score -86.78 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  182 score 0.00 average score -85.78 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  183 score -145.00 average score -86.08 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #31.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  184 score -115.00 average score -86.08 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #35.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  185 score -130.00 average score -86.38 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 2ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  186 score -45.00 average score -85.68 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  187 score -131.00 average score -86.99 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  188 score -190.00 average score -88.89 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  189 score 0.00 average score -87.74 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #28.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  190 score -115.00 average score -88.89 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  191 score -115.00 average score -88.89 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  192 score -45.00 average score -89.34 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  193 score -160.00 average score -89.79 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  194 score 0.00 average score -88.79 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  195 score -17.00 average score -87.78 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  196 score -100.00 average score -87.78 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  197 score -115.00 average score -87.92 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #31.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  198 score -115.00 average score -88.07 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  199 score -132.00 average score -88.64 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (3ms ~= 333.33*RT, ~1666.67UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  200 score 0.00 average score -87.46 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  201 score -45.00 average score -86.31 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  202 score -3.00 average score -85.19 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  203 score -30.00 average score -84.48 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  204 score -116.00 average score -84.64 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  205 score -160.00 average score -85.09 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 4ms, vehicles TOT 2 ACT 2 BUF 0)       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  206 score -115.00 average score -84.79 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  207 score -115.00 average score -85.94 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  208 score -168.00 average score -86.47 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  209 score -100.00 average score -86.02 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  210 score 0.00 average score -85.02 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  211 score -115.00 average score -85.01 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  212 score -115.00 average score -84.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #42.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  213 score -1.00 average score -83.87 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  214 score -160.00 average score -84.45 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  215 score -115.00 average score -84.44 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 10ms, vehicles TOT 2 ACT 2 BUF 0)                      Step #26.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  216 score -102.00 average score -84.46 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #27.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  217 score -102.00 average score -85.48 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  218 score -118.00 average score -85.21 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #31.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  219 score 0.00 average score -85.21 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 5ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  220 score -101.00 average score -85.07 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  221 score -115.00 average score -86.22 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (3ms ~= 333.33*RT, ~1666.67UPS, TraCI: 3ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  222 score -102.00 average score -87.24 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  223 score -116.00 average score -87.25 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  224 score -101.00 average score -88.26 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  225 score -115.00 average score -88.40 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  226 score 0.00 average score -87.10 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (3ms ~= 333.33*RT, ~666.67UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)         Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  227 score -115.00 average score -87.25 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  228 score -15.00 average score -86.25 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #43.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  229 score -60.00 average score -86.85 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  230 score 0.00 average score -86.84 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  231 score -115.00 average score -87.99 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  232 score -145.00 average score -87.84 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  233 score -116.00 average score -88.00 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  234 score -100.00 average score -89.00 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  235 score -160.00 average score -89.44 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  236 score -101.00 average score -89.30 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  237 score -115.00 average score -89.30 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  238 score -115.00 average score -89.00 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  239 score -1.00 average score -87.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  240 score 0.00 average score -86.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  241 score -115.00 average score -86.41 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  242 score 0.00 average score -85.41 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  243 score -115.00 average score -85.41 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  244 score 0.00 average score -84.26 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  245 score -3.00 average score -84.29 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  246 score -130.00 average score -84.59 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  247 score -2.00 average score -83.46 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  248 score -115.00 average score -83.01 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  249 score -115.00 average score -84.01 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #42.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  250 score -100.00 average score -83.86 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #42.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  251 score -1.00 average score -82.72 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #31.00 (2ms ~= 500.00*RT, ~2500.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)       
+episode  252 score -45.00 average score -82.17 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #42.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 4 BUF 0)                      
+episode  253 score -115.00 average score -83.32 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #33.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  254 score -190.00 average score -83.92 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  255 score -160.00 average score -84.07 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #31.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  256 score -115.00 average score -84.07 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  257 score -100.00 average score -83.39 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 5ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  258 score -115.00 average score -83.54 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 3ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  259 score -116.00 average score -84.70 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  260 score -115.00 average score -85.40 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  261 score -115.00 average score -85.39 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #39.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  262 score -115.00 average score -85.39 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  263 score -145.00 average score -85.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #28.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  264 score -115.00 average score -85.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  265 score -100.00 average score -85.65 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  266 score -115.00 average score -86.80 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  267 score -145.00 average score -88.25 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  268 score -118.00 average score -87.98 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #34.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  269 score 0.00 average score -87.98 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  270 score -130.00 average score -87.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #32.00 (0ms ?*RT. ?UPS, TraCI: 2ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  271 score 0.00 average score -86.83 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #42.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  272 score -130.00 average score -86.98 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  273 score 0.00 average score -85.98 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #38.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  274 score -153.00 average score -86.36 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  275 score 0.00 average score -85.36 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #42.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  276 score -100.00 average score -86.36 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  277 score 0.00 average score -86.36 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #33.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  278 score -102.00 average score -87.38 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #41.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  279 score -100.00 average score -88.38 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  280 score 0.00 average score -87.08 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #27.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  281 score -115.00 average score -87.23 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  282 score -130.00 average score -88.53 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  283 score 0.00 average score -87.08 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #33.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  284 score -115.00 average score -87.08 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #24.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  285 score -100.00 average score -86.78 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #36.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  286 score -115.00 average score -87.48 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #22.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  287 score -115.00 average score -87.32 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  288 score -117.00 average score -86.59 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (1ms ~= 1000.00*RT, ~5000.00UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)      
+episode  289 score -115.00 average score -87.74 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #25.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  290 score -102.00 average score -87.61 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (1ms ~= 1000.00*RT, ~2000.00UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  291 score -115.00 average score -87.61 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #26.00 (0ms ?*RT. ?UPS, TraCI: 2ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  292 score -102.00 average score -88.18 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #35.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  293 score -118.00 average score -87.76 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  294 score -116.00 average score -88.92 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #23.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  295 score -115.00 average score -89.90 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #29.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  296 score -115.00 average score -90.05 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 6ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #37.00 (0ms ?*RT. ?UPS, TraCI: 1ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  297 score -151.00 average score -90.41 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #40.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  298 score 0.00 average score -89.26 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+Step #0.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 2 ACT 2 BUF 0)                       Step #30.00 (0ms ?*RT. ?UPS, TraCI: 0ms, vehicles TOT 6 ACT 5 BUF 0)                      
+episode  299 score 0.00 average score -87.94 best score -inf epsilon 0.01
+ Retrying in 1 seconds
+episode  300 score -100.00 average score -88.94 best score -inf epsilon 0.01
+Success rate: 28.000
