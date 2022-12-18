@@ -8,9 +8,9 @@ A repository for automation of single vehicle on-ramp merging in a non-cooperati
 ## Requirements 
 Sumo
 
-## Running Guide
+## Running the Project
 
-Run one of the merging files with the following flags:
+Run one of the merging files with the following flags based based on your preferences:
 
 --testing: For watching the trained agent.
 
