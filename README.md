@@ -1,4 +1,4 @@
-# Non-cooperative Automated Merging in Autonomous Driving for HighwaysUsing Deep Reinforcement Learning
+# Non-cooperative Automated Merging in Autonomous Driving for Highways Using Deep Reinforcement Learning
 
 A repository for automation of single vehicle on-ramp merging in a non-cooperative scenario. 
 
