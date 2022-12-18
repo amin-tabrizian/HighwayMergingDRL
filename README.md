@@ -2,6 +2,9 @@
 
 A repository for automation of single vehicle on-ramp merging in a non-cooperative scenario. 
 
+![alt text](http://url/to/img.png)
+
+
 ## Requirements 
 Sumo
 
